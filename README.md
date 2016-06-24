@@ -1,2 +1,3 @@
 # first_project
-learning VS, github, getting some ideas together
+learning VS, github, getting some ideas formulated
+What should I do?
